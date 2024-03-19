@@ -34,4 +34,11 @@
 
 ## Итоговый вывод
 
-Для решения задачи мы сравнили показатели качества пяти моделей: Decision Tree Regressor, Random Forest Regressor, Linear Regression, Lasso-регрессию и Ridge-регрессию. Лучший результат показала Lasso-регрессия, итоговый SMAPE составил 7.66.
+Для решения задачи мы сравнили показатели качества пяти моделей: 
+- Decision Tree Regressor,
+- Random Forest Regressor,
+- Linear Regression,
+- Lasso-регрессии
+- Ridge-регрессии.
+
+Лучший результат показала Lasso-регрессия, итоговый SMAPE составил 7.66.
